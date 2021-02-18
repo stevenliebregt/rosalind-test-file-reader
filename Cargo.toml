@@ -1,5 +1,5 @@
 [package]
-name = "rosalind-test-file-reader"
+name = "rosalind_test_reader"
 version = "0.1.0"
 authors = ["Steven Liebregt <stevenliebregt@outlook.com>"]
 description = "A helper crate to read Rosalind test files"
