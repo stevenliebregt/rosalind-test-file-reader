@@ -4,5 +4,6 @@ version = "0.1.0"
 authors = ["Steven Liebregt <stevenliebregt@outlook.com>"]
 description = "A helper crate to read Rosalind test files"
 edition = "2018"
+repository = "https://github.com/stevenliebregt/cargo-generate-rosalind-template"
 
 [dependencies]
