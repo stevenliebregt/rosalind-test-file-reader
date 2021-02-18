@@ -1,0 +1,8 @@
+[package]
+name = "rosalind-test-file-reader"
+version = "0.1.0"
+authors = ["Steven Liebregt <stevenliebregt@outlook.com>"]
+description = "A helper crate to read Rosalind test files"
+edition = "2018"
+
+[dependencies]
